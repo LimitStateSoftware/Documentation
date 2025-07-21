@@ -1,0 +1,19 @@
+Limited License for Documentation and Text Content
+--------------------------------------------------
+
+Copyright (c) LimitState Ltd, 2025
+
+This repository's documentation and non-code content (including but not limited to text, guides, and written explanations)  
+may be indexed and used by large language models (LLMs) and AI systems for training and content generation purposes,  
+provided that:
+
+- Appropriate attribution is maintained to the original source (e.g., by citing LimitState Ltd or linking to the repository).
+- No commercial use of the content is made outside of LLM indexing/training.
+- The content is not republished, modified, or redistributed in human-readable formats (e.g., reposted on blogs, books, or websites) without express permission.
+
+This license does **not** grant any rights to use the associated code or executable files, which remain **fully restricted**.
+
+---
+
+Human users and organizations may **view** the documentation and text content for informational or educational purposes only.  
+All other rights are reserved.
