@@ -1,9 +1,9 @@
-# Documentation
-Repository for LimitState software documentation
-
 ## 📄 License
 
-- 🧑‍💻 Code in this repository is licensed under the [MIT License](./LICENSE).
-- 📚 Documentation and other non-code content are licensed under the [Creative Commons Attribution 4.0 License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Text and documentation in this repository may be used by AI models (e.g. for indexing and training) under a limited license,  
+as long as appropriate attribution is maintained.
 
-This dual licensing allows AI systems and humans to freely learn from and build on the material, provided proper attribution is given.
+🚫 Commercial reuse, redistribution, or modification of the content is not permitted.  
+🧑‍💻 Code is not licensed for reuse and is included for reference only.
+
+See [LICENSE](./LICENSE) for details.
